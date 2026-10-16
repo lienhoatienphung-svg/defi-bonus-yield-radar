@@ -1,0 +1,24 @@
+{
+  "name": "@lienhoatienphung-svg/defi-bonus-yield-radar",
+  "version": "1.0.0",
+  "description": "Real-time DeFi Bonus Reward Token & Boosted Coin CLI Radar",
+  "type": "module",
+  "main": "index.mjs",
+  "bin": {
+    "defi-radar": "./index.mjs"
+  },
+  "scripts": {
+    "start": "node index.mjs",
+    "test": "node test.mjs"
+  },
+  "keywords": [
+    "defi",
+    "yield",
+    "airdrop",
+    "bonus-token",
+    "base",
+    "arbitrum",
+    "solana"
+  ],
+  "license": "MIT"
+}
